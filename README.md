@@ -2,13 +2,19 @@
  Learning Java concepts using the W3C school website - https://www.w3schools.com/java/
 
 ## Java Tutorial
-1. Java HOME
-2. Java Intro 
-3. Java Get Started 
-4. Java Syntax 
-5. Java Comments 
-6. Java Variables 
-7. Java Data Types 
+1. Java HOME ✅
+2. Java Intro ✅
+3. Java Get Started ✅
+4. Java Syntax ✅
+5. Java Comments ✅
+   1. Single line comments
+   2. Multiple line comments
+6. Java Variables ✅
+   1. Declaring (Creating) Variables
+   2. Final Variables
+7. Java Data Types 🚧
+   1. Primitive Data Types
+   2. Non-Primitive Data Types
 8. Java Type Casting 
 9. Java Operators 
 10. Java Strings 
