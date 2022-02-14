@@ -12,10 +12,10 @@
 6. Java Variables ✅
    1. Declaring (Creating) Variables
    2. Final Variables
-7. Java Data Types 🚧
+7. Java Data Types ✅
    1. Primitive Data Types
    2. Non-Primitive Data Types
-8. Java Type Casting 
+8. Java Type Casting 🚧
 9. Java Operators 
 10. Java Strings 
 11. Java Math 
