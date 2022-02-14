@@ -1,8 +1,13 @@
 package w3schools.i_tutorial.i_iv_dataTypes;
 
+import java.nio.charset.StandardCharsets;
+import java.util.Locale;
+
 public class i_dataTypes {
 
     public static void main(String[] args) {
+
+        //Variables in Java must be a specified data type
 
         int myNum = 5;               // integer (whole number)
         System.out.println(myNum);
@@ -18,6 +23,7 @@ public class i_dataTypes {
 
         String myText = "Hello";     // String
         System.out.println(myText);
+
 
         /*
         Data types are divided into two groups:
