@@ -16,8 +16,8 @@
    1. Primitive Data Types
    2. Non-Primitive Data Types
 8. Java Type Casting ✅
-9. Java Operators 🚧
-10. Java Strings 
+9. Java Operators ✅
+10. Java Strings 🚧
 11. Java Math 
 12. Java Booleans 
 13. Java If...Else 
