@@ -53,7 +53,7 @@ public class ii_arithmeticOperators {
 
         int x = 5;
         int y = 3;
-        System.out.println("Multiplication : " + x * y)TOMEK
+        System.out.println("Multiplication : " + x * y);
 
 
     }
